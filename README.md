@@ -15,3 +15,6 @@ Two code files are included in the following repository:
 ## Data Files
 - Please see documentation about sources for input data sources
 - Clean modeling file: tech_serum_hackathon_data.csv
+
+## Custom Vision Models
+- These models were unfortunately too big to include in this repository.
